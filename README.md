@@ -7,7 +7,7 @@ A simple bash script to create projects from templates
 ```bash
 git clone git://github.com/robertf224/Boilerplates.git
 cat Boilerplates/Boilerplates.sh >> ~/.bash_profile
-rm -r Boilerplates
+rm -rf Boilerplates
 mkdir ~/.boilerplates
 ```
 
